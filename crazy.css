@@ -1,0 +1,38 @@
+body{
+    font-family:calibri,helvetica,sana-serif;
+    background-color:pink;
+}
+
+button{
+    background-color: blue;
+    width: 100%;
+    color: chocolate;
+    padding: 15px;
+    margin: 10px 0px;
+}
+
+form{
+    border: 3px solid #f1f1f1;
+    border-style: solid;
+    border-color: rgba(17, 3, 5, 0.966);
+    border-radius: unset;
+}
+title{
+    background:blueviolet;
+    padding: 15px;
+    margin: 10px 10px ;
+}
+label{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: chocolate;
+    padding: 0px;
+    margin: 0px;
+    font-size:10 px;
+    border: 1px aqua;
+}
+button{
+font-size: 10px;
+background: #000;
+font-style:italic;
+}
+
